@@ -73,3 +73,6 @@
 | 67 | <img src='https://delivery.digitalassets.zillowgroup.com/api/public/content/200x200_CMS_Full.png?v=60fab90c' alt='Zillow' width='50'/> | Zillow | 您的房地产助手已经到位！使用 Zillow 搜索房源、查看物业详情，轻松找到家！ | chatgpt-plugin-support@zillow.com |
 
 **请注意：** 这是自动生成的信息，请检查每个插件的详细信息。
+
+<h2 align='center'>关注我</h2>
+<p align='center'><img src='https://github.com/wishtodaya/awesome-chatgpt-plugins-zh/blob/main/pic/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg?raw=true' /></p>
